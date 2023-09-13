@@ -76,4 +76,6 @@ pub fn path_filter(mut req: HttpRequest) -> Chain {
 
 See more examples in `core/examples`.
 
-##
+## License
+
+Argos is provided under the MIT license. See [LICENSE](https://github.com/jimmyseraph/argos/blob/main/LICENSE).
