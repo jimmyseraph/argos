@@ -2,6 +2,17 @@
 name = "argos-macros"
 version = "0.1.0"
 edition = "2021"
+rust-version = "1.66.1"
+authors = ["Liudao <jimmyseraph@testops.vip>"]
+license = "MIT"
+readme = "../README.md"
+repository = "https://github.com/jimmyseraph/argos"
+homepage = "https://github.com/jimmyseraph/argos"
+description = """
+Argos's proc macros.
+"""
+categories = ["web-programming"]
+keywords = ["web", "HTTP", "framework"]
 
 [lib]
 proc-macro = true

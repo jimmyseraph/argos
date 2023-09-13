@@ -2,6 +2,17 @@
 name = "argos"
 version = "0.1.0"
 edition = "2021"
+rust-version = "1.66.1"
+authors = ["Liudao <jimmyseraph@testops.vip>"]
+license = "MIT"
+readme = "../README.md"
+repository = "https://github.com/jimmyseraph/argos"
+homepage = "https://github.com/jimmyseraph/argos"
+description = """
+Argos makes it easy to create a stand-alone web application backend server.
+"""
+categories = ["web-programming"]
+keywords = ["web", "HTTP", "framework"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
